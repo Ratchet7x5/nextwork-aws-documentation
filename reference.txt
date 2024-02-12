@@ -1,0 +1,5 @@
+https://www.nextwork.org/learning/aws/cloud-practitioner/exercise-2-create-a-website-on-amazon-s3
+https://www.nextwork.org/learning/aws/cloud-practitioner/exercise-amazon-cloudfront 
+https://www.nextwork.org/learning/aws/cloud-practitioner/exercise-creating-networking-resources-in-an-amazon-virtual-private-cloud-vpc
+https://www.nextwork.org/learning/aws/cloud-practitioner/exercise-ec2-termination-protection-security-groups-and-resizing
+https://www.nextwork.org/learning/aws/cloud-practitioner/exercise-scaling-and-load-balancing-your-architecture
